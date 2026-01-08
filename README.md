@@ -1,3 +1,7 @@
+ישראל יארבלום
+211846894
+מבחן שבוע 12
+
 # Coordinates API - Kubernetes Deployment
 
 A FastAPI application that manages geographic coordinates with PostgreSQL backend, deployed using Kubernetes StatefulSet.
